@@ -1,4 +1,5 @@
 bank,review,rating,date,source,normalized_date,sentiment_label,sentiment_score
+CBE,Best mobile banking app in Ethiopian banking industry. Keep up CBE,5,2025-06-12,Google Play,2025-06-12,positive,0.9997265934944153
 CBE,it's very helpful app in any way in and out of the county of Ethiopia good luck,5,2025-06-12,Google Play,2025-06-12,positive,0.9995100498199463
 CBE,good app,5,2025-06-11,Google Play,2025-06-11,positive,0.9998493194580078
 CBE,So bad now and hard to use,5,2025-06-09,Google Play,2025-06-09,negative,0.999805748462677
@@ -822,11 +823,12 @@ BOA,It is Good to save time 👌👌,3,2024-05-31,Google Play,2024-05-31,positiv
 BOA,"I'm sorry but what kind of stupid developer thinks the app will be faster if we disable ""Developer mode""? I've never seen such degeneracy in my entire life, please get rid of this feature",1,2024-05-30,Google Play,2024-05-30,negative,0.9996848106384277
 BOA,What is the purpose or point of not allowing to take a screenshot of the recipe after transferring???,1,2024-05-29,Google Play,2024-05-29,negative,0.9991626739501953
 BOA,Ayseram,1,2024-05-28,Google Play,2024-05-28,negative,0.6560930013656616
+Dashen,very simple and user friendly app Thank you Dashen Bank,5,2025-06-12,Google Play,2025-06-12,positive,0.9996474981307983
+Dashen,wow,5,2025-06-12,Google Play,2025-06-12,positive,0.999592125415802
 Dashen,qaasim Aliyyi,5,2025-06-11,Google Play,2025-06-11,positive,0.9319135546684265
 Dashen,good,5,2025-06-10,Google Play,2025-06-10,positive,0.9998161196708679
 Dashen,very good .,5,2025-06-09,Google Play,2025-06-09,positive,0.9998475313186646
 Dashen,this app is good for you guys,5,2025-06-09,Google Play,2025-06-09,positive,0.9998170733451843
-Dashen,wow,5,2025-06-09,Google Play,2025-06-09,positive,0.999592125415802
 Dashen,kalid,5,2025-06-08,Google Play,2025-06-08,positive,0.8998875617980957
 Dashen,I like this mobile banking app very much. Overall user interface and navigation is awesome. But it lacks instant response when someone deposit or withdraw money.,2,2025-06-07,Google Play,2025-06-07,negative,0.9904449582099915
 Dashen,love,3,2025-06-06,Google Play,2025-06-06,positive,0.9998735189437866
