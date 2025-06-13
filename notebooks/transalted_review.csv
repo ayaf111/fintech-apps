@@ -1,0 +1,344 @@
+review_id,review_text,sentiment_label,sentiment_score,bank,rating,clean_text,theme,translated_review
+4,v.good app,positive,0.9952701926231384,CBE,4,app,Other,v.good app
+7,Best,positive,0.9997941851615906,CBE,5,well,Other,Best
+9,More than garrantty bank EBC.,positive,0.9971959590911864,CBE,4,garrantty bank ebc,Other,More Than Garrantty Bank EBC.
+19,አካውንት የምናስገባበት ቦታ ስም ጽፈን ነው ከዚህ በፊት የላክንባቸውን አካዉንቶች የምንፈልገዉ ነገር ግን አዲስ አካውንቶች mr ብለዉ የሚጀምሩ በዝተዋል ግን አፕልኬሽኑ space ስንጽፍ አይቀበልም ቢስተካከል,negative,0.9616847634315492,CBE,4,አካውንት የምናስገባበት ቦታ ስም ጽፈን ነው ከዚህ በፊት የላክንባቸውን አካዉንቶች የምንፈልገዉ ነገር ግን አዲስ አካውንቶች mr ብለዉ የሚጀምሩ በዝተዋል ግን አፕልኬሽኑ space ስንጽፍ አይቀበልም ቢስተካከል,Other,"The name of our account is the name of our account, but the Apple Accounts will be rejected when the Apple Accounts starts MR"
+20,best,positive,0.9997941851615906,CBE,5,well,Other,best
+25,very niec,positive,0.5192620754241943,CBE,5,niec,Other,very niec
+27,yetemeta,positive,0.6553664803504944,CBE,1,yetemeta,Other,YETEMETA
+36,Masha alla,negative,0.9514626860618592,CBE,5,masha alla,Other,Masha all
+40,malkaamuu Jiidhaa Namoo,negative,0.9887813329696656,CBE,5,malkaamuu jiidhaa namoo,Other,Malkaamuu wet people
+43,Keep it up My CBE,positive,0.9996104836463928,CBE,5,cbe,Other,Keep it up My CBE
+46,i like everything of this app,positive,0.9996908903121948,CBE,5,like app,Other,i like everything of this app
+53,Ronaldo 🇵🇹 🥇,positive,0.9948286414146424,CBE,5,ronaldo,Other,Ronaldo 🇵🇹 🥇
+56,mortuary app,negative,0.7924914956092834,CBE,5,mortuary app,Other,mortuary app
+62,its not fast,negative,0.9949808716773988,CBE,1,fast,Other,its not fast
+66,ok,positive,0.9997851252555848,CBE,1,ok,Other,ok
+69,I like it,positive,0.99985933303833,CBE,4,like,Other,I like it
+76,very busy I don't know why... I prefer 889,negative,0.9991938471794128,CBE,3,busy know prefer,Other,very busy I don't know why... I prefer 889
+79,hojii bonsaadha,positive,0.9568661451339722,CBE,5,hojii bonsaadha,Other,It’s a proud job
+81,Awosome!!!,positive,0.6944916844367981,CBE,5,awosome,Other,Awosome!!!
+85,I hate this app 😒,negative,0.9996378421783448,CBE,1,hate app,Other,I hate this app 😒
+86,trustful,positive,0.9998213648796082,CBE,5,trustful,Other,trustful
+87,I like,positive,0.9998149275779724,CBE,5,like,Other,I like
+90,oldie,negative,0.6663177013397217,CBE,1,oldie,Other,oldie
+91,it doesn't work,negative,0.9997813105583192,CBE,1,work,Other,it doesn't work
+94,Yes Yes,positive,0.9997482895851136,CBE,5,yes yes,Other,Yes Yes
+95,በጣም ከርፋፋ,negative,0.7850590348243713,CBE,1,በጣም ከርፋፋ,Other,Too worst
+105,the most annoying mobile banking app I've ever seen,negative,0.9994208812713624,CBE,1,annoying mobile banking app see,Other,the most annoying mobile banking app I've ever seen
+106,Cbe mobile banking,positive,0.8304281234741211,CBE,5,cbe mobile banking,Other,Cbe mobile banking
+107,"i can't make Screenshout in this app, please made modification",negative,0.9966920614242554,CBE,5,screenshout app modification,Other,"i can't make Screenshout in this app, please made modification"
+111,well satisfied with this beautiful app,positive,0.999858856201172,CBE,5,satisfied beautiful app,Other,well satisfied with this beautiful app
+114,"not working,why???",negative,0.9995881915092468,CBE,5,work,Other,"not working,why???"
+117,woxe harimo ribiso,negative,0.9374371767044068,CBE,5,woxe harimo ribiso,Other,Woxe including ribiso
+129,This app don't have self activation only you have to look near cbe branch that's disgusting,negative,0.9960438013076782,CBE,1,app self activation look near cbe branch disgusting,Other,This app don't have self activation only you have to look near cbe branch that's disgusting
+132,"Am sorry but what does developer mode do to the application ? hack it ? are you sure you are developer or are you stupid, doesnt makes sense,",negative,0.9997019171714784,CBE,1,sorry developer mode application hack sure developer stupid not make sense,Other,"Am sorry but what does developer mode do to the application ? hack it ? are you sure you are developer or are you stupid, doesnt makes sense,"
+133,the pride of Ethiopian bank 🏦,positive,0.999118983745575,CBE,5,pride ethiopian bank,Other,the pride of Ethiopian bank 🏦
+145,CBE mobilr bankg,positive,0.8703056573867798,CBE,5,cbe mobilr bankg,Other,CBE Mobile Banking
+147,ممتاز جدا,negative,0.8031745553016663,CBE,5,ممتاز جدا,Other,Very excellent
+148,it's very low quality application,negative,0.9996594190597534,CBE,1,low quality application,Other,it's very low quality application
+150,አዛ,negative,0.6970565915107727,CBE,1,አዛ,Other,Heza
+153,Why stacked sometimes,negative,0.9941052198410034,CBE,5,stack,Other,Why stacked sometimes
+154,okay 👍 but sometimes busy,negative,0.8515542149543762,CBE,1,okay busy,Other,okay 👍 but sometimes busy
+158,Unreliable!,negative,0.9997379183769226,CBE,1,unreliable,Other,Unreliable!
+160,happy,positive,0.99987530708313,CBE,5,happy,Other,happy
+161,fast and reliable,positive,0.9998595714569092,CBE,5,fast reliable,Other,fast and reliable
+169,do not work this week,negative,0.99776029586792,CBE,3,work week,Other,do not work this week
+173,goid,negative,0.7086994647979736,CBE,5,goid,Other,Theft
+180,i like the app,positive,0.9994398951530457,CBE,5,like app,Other,i like the app
+183,tank's,negative,0.9855976700782776,CBE,5,tank,Other,tank's
+191,well app,positive,0.9993765950202942,CBE,5,app,Other,well app
+192,Actually it is inactive,negative,0.9996483325958252,CBE,4,actually inactive,Other,Actually it is inactive
+194,always CBE is the leading Commercial Bank💪💪💪,positive,0.9975135326385498,CBE,5,cbe lead commercial bank,Other,always CBE is the leading Commercial Bank💪💪💪
+195,i like it,positive,0.99985933303833,CBE,5,like,Other,i like it
+199,i can't take screenshot,negative,0.9897894263267516,CBE,1,screenshot,Other,i can't take screenshot
+202,Fast and Reliable,positive,0.9998595714569092,CBE,5,fast reliable,Other,Fast and Reliable
+205,because sometimes it doesn't working it load too much,negative,0.9911932349205016,CBE,3,work load,Other,because sometimes it doesn't working it load too much
+213,it's special apps,positive,0.9995416402816772,CBE,5,special app,Other,it's special apps
+215,ለምንድነው ትራንዛክሽን ትንሽ ብቻ የሚያሳየው ?,negative,0.9647620320320128,CBE,3,ለምንድነው ትራንዛክሽን ትንሽ ብቻ የሚያሳየው,Other,Why is Treemon only show a little?
+218,lebaa bank,negative,0.9437296390533448,CBE,5,lebaa bank,Other,Plus Bank
+219,Can't scan/recognize other banks' Interoperable QR Codes,negative,0.9983273148536682,CBE,1,scan recognize bank interoperable qr code,Other,Can't scan/recognize other banks' Interoperable QR Codes
+220,OK,positive,0.9997851252555848,CBE,5,ok,Other,OK
+221,grateful app,positive,0.9998038411140442,CBE,5,grateful app,Other,grateful app
+223,everthing wellbeok,negative,0.7055779695510864,CBE,3,everthe wellbeok,Other,everthing wellbeok
+226,why did this app is not screenshot,negative,0.9989493489265442,CBE,5,app screenshot,Other,why did this app is not screenshot
+228,جميل,positive,0.9271727204322816,CBE,5,جميل,Other,Beautiful
+230,simply for used,negative,0.9918004870414734,CBE,4,simply,Other,simply for used
+235,ፈጣን ቀልጣፋ,negative,0.7850590348243713,CBE,5,ፈጣን ቀልጣፋ,Other,Quick efficient
+236,ጎበዝ,negative,0.6970565915107727,CBE,5,ጎበዝ,Other,Growth
+237,but this app says can't sync,negative,0.9988365769386292,CBE,5,app say sync,Other,but this app says can't sync
+238,waw,negative,0.7346178889274597,CBE,5,waw,Other,waw
+246,I like it.,positive,0.999869465827942,CBE,5,like,Other,I like it.
+248,commerial Bank,negative,0.6810258030891418,CBE,5,commerial bank,Other,commerial Bank
+249,Genat biru,negative,0.966159999370575,CBE,2,genat biru,Other,The blue
+260,ለኔ በጣም ምርጥ ነው ግን screenshot ማረግ ቢቻል ምርጥ ነበር,negative,0.881923258304596,CBE,5,ለኔ በጣም ምርጥ ነው ግን screenshot ማረግ ቢቻል ምርጥ ነበር,Other,For me is the best but screenshot was the best
+262,cool ❤,positive,0.9997991919517516,CBE,4,cool,Other,cool ❤
+265,satisfied,positive,0.9997212290763856,CBE,5,satisfy,Other,satisfied
+266,this app is very necessary app many people found it,positive,0.9980692267417908,CBE,5,app necessary app people find,Other,this app is very necessary app many people found it
+267,cbe very active Bank I'm using CBE app very very satisfaction,positive,0.989459753036499,CBE,5,cbe active bank cbe app satisfaction,Other,cbe very active Bank I'm using CBE app very very satisfaction
+271,I Like it,positive,0.99985933303833,CBE,5,like,Other,I Like it
+274,isin ga'a,positive,0.7607281804084778,CBE,2,isin,Other,Isin
+277,It is excelent,positive,0.9998881816864014,CBE,5,excelent,Other,It is excelent
+279,በየወሩ አፕደት እየጠየቀኝ ነው ለነገሩ ብር ስሌለኝ ይሆናል እና ምን ለማለት ፈልገ መሰላቹ ወላህ ቼግሮኛል 🥺🥺🥺,negative,0.9570208191871644,CBE,3,በየወሩ አፕደት እየጠየቀኝ ነው ለነገሩ ብር ስሌለኝ ይሆናል እና ምን ለማለት ፈልገ መሰላቹ ወላህ ቼግሮኛል,Other,በየወሩ አፕደት እየጠየቀኝ ነው ለነገሩ ብር ስሌለኝ ይሆናል እና ምን ለማለት ፈልገ መሰላቹ ወላህ ቼግሮኛል 🥺🥺🥺
+280,very interesting app,positive,0.9997968077659608,CBE,5,interesting app,Other,very interesting app
+282,ጊዜን ቆጣቢ እና ህይወትን ቀለል ከሚያደርጉ ኢትዬጲያ ካሉ ፋይናንስ አፕልኬሽኖች ሁሉ ይሄ ይለያል,negative,0.9510265588760376,CBE,5,ጊዜን ቆጣቢ እና ህይወትን ቀለል ከሚያደርጉ ኢትዬጲያ ካሉ ፋይናንስ አፕልኬሽኖች ሁሉ ይሄ ይለያል,Other,This will be identified by all the time of financing and the simplicity of Ettersmia
+289,always we relay on,positive,0.9971832633018494,CBE,5,relay,Other,always we relay on
+297,ጥሩ ነው,negative,0.7850590348243713,CBE,5,ጥሩ ነው,Other,it's good
+298,እጅግ በጣም ጥሩ አፕ,negative,0.8616330027580261,CBE,5,እጅግ በጣም ጥሩ አፕ,Other,The best of the best
+299,በጣም ሃሪፍ ነው ግን ብር በሚተላለፍበት ወቅት ተቀንሷል ይላል እላፊ መልክቱ ይደርሳል ግን አይቀንስም,negative,0.9528433680534364,CBE,5,በጣም ሃሪፍ ነው ግን ብር በሚተላለፍበት ወቅት ተቀንሷል ይላል እላፊ መልክቱ ይደርሳል ግን አይቀንስም,Other,"It is very Harf but a birr in transfer, and the appearance of the appearance"
+300,suitable app,positive,0.9997665286064148,CBE,4,suitable app,Other,suitable app
+301,Dear cbe this app is not comparable with 21century and pls try to solve it.💀💀💀,negative,0.9995038509368896,CBE,1,dear cbe app comparable pls try solve,Other,Dear cbe this app is not comparable with 21century and pls try to solve it.💀💀💀
+304,It literarily don't work at all,negative,0.9995075464248656,CBE,4,literarily work,Other,It literarily don't work at all
+308,Tnc Cbe,positive,0.9070308804512024,CBE,5,tnc cbe,Other,Tnc Cbe
+313,CBE,positive,0.9966009855270386,CBE,5,cbe,Other,CBE
+322,አሪፍ ነው በተለይ የአሻራ ደህነቱ መረጋገጡ ተመችቶኛል,negative,0.9200406670570374,CBE,3,አሪፍ ነው በተለይ የአሻራ ደህነቱ መረጋገጡ ተመችቶኛል,Other,Cool is particularly confirmed to be confirmed
+323,well software,positive,0.999262273311615,CBE,5,software,Other,well software
+324,ጥሩ ነው አንዳንዴ ስታክ ቢያደርግም,negative,0.8832131028175354,CBE,4,ጥሩ ነው አንዳንዴ ስታክ ቢያደርግም,Other,It's good
+331,our legitimate bank,positive,0.9954161643981934,CBE,4,legitimate bank,Other,our legitimate bank
+332,Ever and never seen this kind of app I proud my CBE,positive,0.9952196478843688,CBE,5,see kind app proud cbe,Other,Ever and never seen this kind of app I proud my CBE
+336,ከአንድ መስሪያ ቤት ወይም ድርጅት ወይም ግለሰብ በርከት ላለ ሰው ሲላክ የላኪውን መስሪያ ቤት ወይም ድርጅት ወይም ግለሰብ እንዲያሳይ አታደርጉም ? ግለሰብ ለግለሰብ ወይም ለድርጅት ሲከፍል ያሳያል ።,negative,0.972727358341217,CBE,5,ከአንድ መስሪያ ቤት ወይም ድርጅት ወይም ግለሰብ በርከት ላለ ሰው ሲላክ የላኪውን መስሪያ ቤት ወይም ድርጅት ወይም ግለሰብ እንዲያሳይ አታደርጉም ግለሰብ ለግለሰብ ወይም ለድርጅት ሲከፍል ያሳያል,Other,Do not you show the sender office or organization or organization of a number of a minister or organization?It shows a person when you pay for individual or organization.
+337,Why not allowed to pay for fuel?,negative,0.9974955916404724,CBE,4,allow pay fuel,Other,Why not allowed to pay for fuel?
+339,ቆንጆ ነው,negative,0.7850590348243713,CBE,5,ቆንጆ ነው,Other,that's nice
+343,Really automated...,positive,0.8894475102424622,CBE,5,automate,Other,Really automated...
+345,bek betam kelal,positive,0.9325478076934814,CBE,5,bek betam kelal,Other,Betam defenders have too
+346,ምርጥ አፕ ነው ተመችቶኛል❤❤,negative,0.8616330027580261,CBE,3,ምርጥ አፕ ነው ተመችቶኛል,Other,It's the best apple
+351,interesting,positive,0.9998446702957152,CBE,3,interesting,Other,interesting
+362,halan garidhaa cbe,positive,0.9760899543762208,CBE,5,halan garidhaa cbe,Other,Good halan is cbe
+364,like it,positive,0.9997184872627258,CBE,5,like,Other,like it
+377,why why u remove screen shoot😡😡,negative,0.9993287324905396,CBE,2,u remove screen shoot,Other,why why u remove screen shoot😡😡
+382,ምርጥ አፕሊከሽን ነው ገንዘብ ለመላክም ሆነ ለማንኛውም ነገር ተመችቶኛል በዚው ቀጥሉበት,negative,0.944585382938385,CBE,5,ምርጥ አፕሊከሽን ነው ገንዘብ ለመላክም ሆነ ለማንኛውም ነገር ተመችቶኛል በዚው ቀጥሉበት,Other,The best app is your best app to send money or anything else
+386,cbe,positive,0.9966009855270386,CBE,5,cbe,Other,cbe
+387,ممتاز جدا جدا,negative,0.8608055710792542,CBE,5,ممتاز جدا جدا,Other,Very very excellent
+393,it's not working,negative,0.9997857213020324,BOA,3,work,Other,it's not working
+395,exceptional,positive,0.9998514652252196,BOA,5,exceptional,Other,exceptional
+397,this is worest app 24/7 loading,negative,0.993474304676056,BOA,1,wor app loading,Other,this is worest app 24/7 loading
+402,the app crush frequently,negative,0.998525083065033,BOA,1,app crush frequently,Other,the app crush frequently
+406,BoA,negative,0.7410542368888855,BOA,2,boa,Other,BoA
+407,but not opening on android,negative,0.9952228665351868,BOA,4,open android,Other,but not opening on android
+412,ሞላዬ ከበደ,negative,0.7850590348243713,BOA,5,ሞላዬ ከበደ,Other,My filling
+423,Best,positive,0.9997941851615906,BOA,2,well,Other,Best
+425,yideg,negative,0.7675821781158447,BOA,1,yideg,Other,It's Dig
+426,አይከፍትም እኮ,negative,0.7850590348243713,BOA,1,አይከፍትም እኮ,Other,No open
+428,boa of mobile backing,negative,0.980626106262207,BOA,5,boa mobile backing,Other,boa of mobile backing
+429,faster bank of Abissinya,positive,0.9722142815589904,BOA,5,fast bank abissinya,Other,Faster Bank of Abyssinia
+431,it just doesn't work...so frustrating,negative,0.999774158000946,BOA,1,work frustrating,Other,it just doesn't work...so frustrating
+432,like,positive,0.9910564422607422,BOA,5,like,Other,like
+443,"It can't actively on initialization, it says incorrect OTP getting the exact OTP",negative,0.9996182918548584,BOA,1,actively initialization say incorrect otp get exact otp,Other,"It can't actively on initialization, it says incorrect OTP getting the exact OTP"
+449,best,positive,0.9997941851615906,BOA,5,well,Other,best
+451,there is no speed,negative,0.9994422793388368,BOA,1,speed,Other,there is no speed
+452,"For anyone who wants to download it, just don't!!!",negative,0.999398112297058,BOA,1,want download,Other,"For anyone who wants to download it, just don't!!!"
+453,wonderful,positive,0.9998772144317628,BOA,5,wonderful,Other,wonderful
+454,all worck,negative,0.9971314668655396,BOA,5,worck,Other,all worck
+460,BoA Greqt Ethiopian bank.,negative,0.8457716703414917,BOA,5,boa greqt ethiopian bank,Other,BoA Greqt Ethiopian bank.
+462,Almost better compared to cbe where it is not qualified for,negative,0.9741679430007936,BOA,4,well compare cbe qualified,Other,Almost better compared to cbe where it is not qualified for
+464,Wonderfull app,positive,0.9998815059661864,BOA,5,wonderfull app,Other,Wonderfull app
+468,AGA B Girja Miss language of admin Afaan oromo & other Itoophiyaa languages,negative,0.9959415793418884,BOA,1,aga b girja miss language admin afaan oromo itoophiyaa language,Other,Aga B girja miss language of admin English & other Ethiopian languages
+473,It's not opening. Really frustrating,negative,0.9997020363807678,BOA,1,open frustrating,Other,It's not opening. Really frustrating
+475,Not working on this days,negative,0.9972773194313048,BOA,1,work day,Other,Not working on this days
+487,Sad experience,negative,0.999068796634674,BOA,1,sad experience,Other,Sad experience
+490,I can't dijitalize my atm in the apollo app on my phone,negative,0.9946038126945496,BOA,1,dijitalize atm apollo app phone,Other,I can't dijitalize my atm in the apollo app on my phone
+492,Beter,positive,0.6771944165229797,BOA,5,beter,Other,Better
+493,Boa,negative,0.7410542368888855,BOA,4,boa,Other,Boa
+495,Aadan Axmed Barkhadle,positive,0.6127519011497498,BOA,5,aadan axmed barkhadle,Other,Adam Ahmed Barkhadle
+501,Like to much,positive,0.9997984766960144,BOA,5,like,Other,Like to much
+510,By assessing this you can tell Abyssinia bank has no idea what mobile banking is ?,negative,0.9992759823799132,BOA,1,assess tell abyssinia bank idea mobile banking,Other,By assessing this you can tell Abyssinia bank has no idea what mobile banking is ?
+511,It doesn't work at all.,negative,0.9997771382331848,BOA,2,work,Other,It doesn't work at all.
+512,this app is not available,negative,0.9997593760490416,BOA,1,app available,Other,this app is not available
+515,በጣም መሻሻል አለበት....... ለ ባንኩ ማይመጥን መተግበርያ ነው ::,negative,0.9733067750930786,BOA,2,በጣም መሻሻል አለበት ለ ባንኩ ማይመጥን መተግበርያ ነው,Other,It must be very updated ........ I am the bank of the bank.
+516,Lemn embi yilal??,negative,0.990697145462036,BOA,5,lemn embi yilal,Other,Lemn calls??
+522,አይሰራም ሼም ነው፤,negative,0.8616330027580261,BOA,1,አይሰራም ሼም,Other,It is no fun;
+524,Fine,positive,0.9998335838317872,BOA,5,fine,Other,Fine
+525,The dirtiest application ever seen...,negative,0.995487630367279,BOA,1,dirty application see,Other,The dirtiest application ever seen...
+526,Nic ap,positive,0.9873360991477966,BOA,5,nic ap,Other,Nic ap
+527,The forest app ever,positive,0.9840954542160034,BOA,1,forest app,Other,The forest app ever
+529,Bank of abissena,positive,0.9480117559432985,BOA,1,bank abissena,Other,Bank of Abissena
+540,It doesn't work on my 2 devices A05 and A34 😡,negative,0.9996792078018188,BOA,1,work device,Other,It doesn't work on my 2 devices A05 and A34 😡
+542,My attention is very important because it will be the most difficult time for me,positive,0.9926175475120544,BOA,5,attention important difficult time,Other,My attention is very important because it will be the most difficult time for me
+552,Hey Google,positive,0.9950044751167296,BOA,5,hey google,Other,Hey Google
+553,ab,positive,0.9603192806243896,BOA,3,ab,Other,ab
+554,Ademtahir,positive,0.9930111765861512,BOA,5,ademtahir,Other,Ademtahir
+556,Please this app on my android phone,positive,0.6488659381866455,BOA,3,app android phone,Other,Please this app on my android phone
+557,GOAT 🐐 🐐,negative,0.9337347149848938,BOA,5,goat,Other,GOAT 🐐 🐐
+559,Fast and reliable,positive,0.9998595714569092,BOA,5,fast reliable,Other,Fast and reliable
+564,Oene,positive,0.8278864026069641,BOA,5,oene,Other,Oene
+565,i find it interesting specially in reciept downloading,positive,0.9981314539909364,BOA,1,find interesting specially reciept download,Other,i find it interesting specially in reciept downloading
+570,Bast bank of ethiopia,positive,0.9978061318397522,BOA,5,bast bank ethiopia,Other,Bast bank of ethiopia
+574,Wweeeer,negative,0.8910733461380005,BOA,4,wweeeer,Other,Wet
+575,Infinx,negative,0.904255747795105,BOA,5,infinx,Other,Infinx
+579,senayt Mesfin,positive,0.887482225894928,BOA,4,senayt mesfin,Other,Senaat Mesfin
+581,Abessnya Banke,negative,0.9873653054237366,BOA,5,abessnya banke,Other,Abessnya Bange
+583,Okay,positive,0.9997709393501282,BOA,5,okay,Other,Okay
+584,Professional on banking app,positive,0.9616296291351318,BOA,5,professional bank app,Other,Professional on banking app
+586,አይሰራም አስተካክሉት,negative,0.7850590348243713,BOA,5,አይሰራም አስተካክሉት,Other,Tucked off
+590,Amrumehamed,positive,0.6924042105674744,BOA,1,amrumehame,Other,Amrumehamed
+592,ደደገነሐ,negative,0.6970565915107727,BOA,5,ደደገነሐ,Other,He was shed
+597,BOA,negative,0.7410542368888855,BOA,5,boa,Other,BOA
+598,Abdulkadir,positive,0.981449544429779,BOA,5,abdulkadir,Other,Abdulkadir
+600,If it is possible I would gove0 star,negative,0.9928192496299744,BOA,1,possible star,Other,If it is possible I would gove0 star
+601,Nise mobile bankig,negative,0.9858755469322203,BOA,4,nise mobile bankig,Other,Nise Mobile Balog
+603,Ok,positive,0.9997851252555848,BOA,5,ok,Other,Ok
+604,Just make it work please🤣 this is embarrassing for a bank of your size,negative,0.999284327030182,BOA,1,work embarrassing bank size,Other,Just make it work please🤣 this is embarrassing for a bank of your size
+608,Worest app,negative,0.7789772152900696,BOA,1,worest app,Other,Worest app
+609,The worest app ever,positive,0.9535900950431824,BOA,1,wor app,Other,The worest app ever
+610,አሪፍ ነው በርቱልን,negative,0.8337252736091614,BOA,5,አሪፍ ነው በርቱልን,Other,It is cool
+611,Wwwerrr,negative,0.8502515554428101,BOA,5,wwwerrr,Other,Wwwerrr
+612,ጀማል ውቀቱ,negative,0.7850590348243713,BOA,5,ጀማል ውቀቱ,Other,The deserved Jamal
+624,Shameful,negative,0.998016357421875,BOA,1,shameful,Other,Shameful
+625,The worest app ever made i would not recommende for no one,negative,0.5611275434494019,BOA,1,wor app recommende,Other,The worest app ever made i would not recommende for no one
+627,I like,positive,0.9998149275779724,BOA,5,like,Other,I like
+630,የእርስዎን ተሞክሮ ይግለጹ (አማራጭ),negative,0.8698039650917053,BOA,5,የእርስዎን ተሞክሮ ይግለጹ አማራጭ,Other,Describe your experience (optional)
+634,Bes and freindly app,negative,0.9136511087417604,BOA,5,bes freindly app,Other,Bes and freindly app
+635,It doesn't work.,negative,0.9997761845588684,BOA,1,work,Other,It doesn't work.
+639,Yegema app tish🪨,negative,0.9501880407333374,BOA,1,yegema app,Other,Yegema App Tish🪨
+640,"This is not an appropriate app, i don't know how boa develops this app, i don't expect this much crazy and un confortable app form BOA, I'm soory!!!",negative,0.9996864795684814,BOA,1,appropriate app know boa develop app expect crazy un confortable app form boa soory,Other,"This is not an appropriate app, i don't know how boa develops this app, i don't expect this much crazy and un confortable app form BOA, I'm soory!!!"
+644,እጅም በጣም ደካማ አፕ ነው ሲፈልግ ይከፍታል ሲፈልግ አይከፍትም ከአዋሽ እና ንግድ ባንክ የመሳሰሉ ባንኮች ሲወዳደር ሞባይል ባንኪንግ App እጅግ የሚያበሳጭ ነው ለውጥ ያስፈልጋችኋል,negative,0.9639249444007874,BOA,1,እጅም በጣም ደካማ አፕ ነው ሲፈልግ ይከፍታል ሲፈልግ አይከፍትም ከአዋሽ እና ንግድ ባንክ የመሳሰሉ ባንኮች ሲወዳደር ሞባይል ባንኪንግ app እጅግ የሚያበሳጭ ነው ለውጥ ያስፈልጋችኋል,Other,"When she wants to search for a very weak alp, you do not open the banks, such as Awash and Business Bank, you need a change"
+645,Fast one,positive,0.9994491934776306,BOA,3,fast,Other,Fast one
+647,The worest MB app ever!!🙄,negative,0.8734644651412964,BOA,1,wor mb app,Other,The worest MB app ever!!🙄
+648,It is ok,positive,0.9998496770858764,BOA,5,ok,Other,It is ok
+650,Apollo's,positive,0.9974138736724854,BOA,1,apollo,Other,Apollo's
+652,Hussenaliumar,negative,0.6654537916183472,BOA,5,hussenaliumar,Other,Hussenaliumar
+654,It is not work for my device,negative,0.9997636675834656,BOA,5,work device,Other,It is not work for my device
+657,Betanya Gebre,positive,0.8911886215209961,BOA,3,betanya gebre,Other,Asked the genre
+658,I dont recommand it to any one,negative,0.9855504035949708,BOA,1,not recommand,Other,I dont recommand it to any one
+661,ትርሃስ,negative,0.6970565915107727,BOA,5,ትርሃስ,Other,Brail
+662,Gio,positive,0.9969680905342102,BOA,4,gio,Other,Gio
+663,App isn't working,negative,0.9995692372322084,BOA,1,app work,Other,App isn't working
+667,Horrible,negative,0.9997841715812684,BOA,1,horrible,Other,Horrible
+668,Mostly not working 😑,negative,0.9995824694633484,BOA,1,work,Other,Mostly not working 😑
+672,Wedi Tekle .,negative,0.8421270847320557,BOA,5,wedi tekle,Other,Wedi Run.
+674,Dura nan fayyadaman ture amma garuu naaf hojjechaa hin jiru maaf?,negative,0.9956488013267516,BOA,5,dura nan fayyadaman ture amma garuu naaf hojjechaa hin jiru maaf,Other,I used to use it first but now I am not working for me why?
+676,ሰላም አቢሲኒያዎች የሞባይል ባንኪንጋችሁ ተጠቃሚ ነኝ አገልግሎቱን ስላስጀመራችሁለን እናመሰግናለን። ነገር ግን አለፎ አልፎ የነበረው የማስፈንጠሪያው በአግባቡ አለመስራት አልፎ አልፎ ወደመስራት ተቀይሯል ድሮ እንደነበራችሁ እናውቃለን ዘንድሮም ብትኖሩልን እንመርጣለን *ከዘመን አንጉደል*,negative,0.952187716960907,BOA,3,ሰላም አቢሲኒያዎች የሞባይል ባንኪንጋችሁ ተጠቃሚ ነኝ አገልግሎቱን ስላስጀመራችሁለን ነገር ግን አለፎ አልፎ የነበረው የማስፈንጠሪያው በአግባቡ አለመስራት አልፎ አልፎ ወደመስራት ተቀይሯል ድሮ እንደነበራችሁ እናውቃለን ዘንድሮም ብትኖሩልን እንመርጣለን ከዘመን አንጉደል,Other,"Peace Absisyni IMPLETE WELL THE GOOD BANGINE WILL YOU LEARNED THE WELL.But the passage of the rape of the random of the ransom is sometimes rarely changed, and we will choose to be dead * of the days that you have been dead. *"
+677,Gooood app my dear,negative,0.9005938172340393,BOA,5,gooood app dear,Other,Gooood app my dear
+678,Harun tamam galanaa,negative,0.9410594701766968,BOA,3,harun tamam galanaa,Other,Aeron
+679,"A total disaster of an app. Always offline, never works, it's embarassing. I've lost hope and taken my business to a competitor",negative,0.9998038411140442,BOA,1,total disaster app offline work embarassing lose hope take business competitor,Other,"A total disaster of an app. Always offline, never works, it's embarassing. I've lost hope and taken my business to a competitor"
+680,Gamebela,positive,0.8994184732437134,BOA,1,gamebela,Other,Gamebela
+686,"I mean how could a big financial company like this, be this much irresponsible to release this app? You should be ashamed!",negative,0.9994394183158876,BOA,1,mean big financial company like irresponsible release app ashamed,Other,"I mean how could a big financial company like this, be this much irresponsible to release this app? You should be ashamed!"
+687,Review,positive,0.9946893453598022,BOA,5,review,Other,Review
+688,Goood,negative,0.9943867921829224,BOA,4,goood,Other,Goood
+693,ok,positive,0.9997851252555848,BOA,5,ok,Other,ok
+698,Not yet completely working this App. i don't know when is it will be working properly! Its Sad!!!,negative,0.9993754029273988,BOA,1,completely work app know work properly sad,Other,Not yet completely working this App. i don't know when is it will be working properly! Its Sad!!!
+703,አቢስኒያ የሁሉም ምርጫ,negative,0.8337252736091614,BOA,5,አቢስኒያ የሁሉም ምርጫ,Other,Absonia all the choice
+704,Nays,negative,0.9894010424613952,BOA,5,nay,Other,Nays
+706,it can't even open and only display error messages,negative,0.9993472695350648,BOA,1,open display error message,Other,it can't even open and only display error messages
+707,not active,negative,0.999765932559967,BOA,1,active,Other,not active
+709,አይሰራም እኮ ምንድን ነው ችግሩ?,negative,0.9647620320320128,BOA,1,አይሰራም እኮ ምንድን ነው ችግሩ,Other,What is the problem?
+719,Allowed,positive,0.9978752136230468,BOA,5,allow,Other,Allowed
+721,we want international mobile banking,positive,0.958784818649292,BOA,1,want international mobile banking,Other,we want international mobile banking
+722,"screenshot isn't working, Please modify it",negative,0.9996084570884703,BOA,2,screenshot work modify,Other,"screenshot isn't working, Please modify it"
+723,Naziriet measho 89160437,negative,0.9862651228904724,BOA,1,naziriet measho,Other,Minister'set MEASHO 89160437
+725,Is not working both this one and apollo did u make it better pls am gonne stop using this bank because of the mobile banking,negative,0.9996222257614136,BOA,1,work apollo u well pls gonne stop bank mobile banking,Other,Is not working both this one and apollo did u make it better pls am gonne stop using this bank because of the mobile banking
+726,I have experiance,negative,0.8070297837257385,BOA,5,experiance,Other,I have experiance
+729,ርይርፍ,negative,0.6970565915107727,BOA,3,ርይርፍ,Other,Blessed
+730,The previous application is much better than this one,positive,0.9991149306297302,BOA,1,previous application well,Other,The previous application is much better than this one
+732,mal,negative,0.9996137022972108,BOA,5,mal,Other,mal
+733,It is not working at all,negative,0.9997811913490297,BOA,1,work,Other,It is not working at all
+740,No work app,negative,0.9968982934951782,BOA,5,work app,Other,No work app
+741,Is ok but stop sundenly,positive,0.9309312105178832,BOA,5,ok stop sundenly,Other,Is ok but stop sundenly
+743,experienced,positive,0.9950610995292664,BOA,5,experience,Other,experienced
+746,I can't believe that Abyssinia develop this kind of trash app it have a lot of issues 👎👎👎,negative,0.998315453529358,BOA,1,believe abyssinia develop kind trash app lot issue,Other,I can't believe that Abyssinia develop this kind of trash app it have a lot of issues 👎👎👎
+749,It doesn't work,negative,0.9997813105583192,BOA,1,work,Other,It doesn't work
+750,ጭራሽ አይነፋም,negative,0.7850590348243713,BOA,1,ጭራሽ አይነፋም,Other,It does not blow
+753,It is not fast,negative,0.99720698595047,BOA,3,fast,Other,It is not fast
+756,ሀየ,negative,0.6970565915107727,BOA,5,ሀየ,Other,Hey
+757,Too late!,negative,0.9988941550254822,BOA,1,late,Other,Too late!
+758,No work,negative,0.999386191368103,BOA,5,work,Other,No work
+767,Miliyone.,negative,0.9675788879394532,BOA,5,miliyone,Other,Miliyone.
+768,Workneh girmamo,positive,0.9400009512901306,BOA,5,workneh girmamo,Other,Work on
+771,Is it even working these days? Please check it.,positive,0.9892704486846924,BOA,1,work day check,Other,Is it even working these days? Please check it.
+776,This app doesn't work,negative,0.9997921586036682,BOA,1,app work,Other,This app doesn't work
+782,አፑ በጣም አስቸጋሪ ሆኗል,negative,0.8616330027580261,BOA,1,አፑ በጣም አስቸጋሪ ሆኗል,Other,The alpha has become very difficult
+783,Its not working.,negative,0.9997856020927428,BOA,1,work,Other,Its not working.
+786,ከዚህ ትልቅ ባንክ የማይጠበቅ ድንዝዝዝዝ ያለ App.... ዛግግግ ነው ያረገኝ 😡😡😡,negative,0.96113383769989,BOA,1,ከዚህ ትልቅ ባንክ የማይጠበቅ ድንዝዝዝዝ ያለ app ዛግግግ ነው ያረገኝ,Other,Not unexpected from this largest bank of APP .... Zargg:
+789,meskelu Metku,positive,0.8474318981170654,BOA,5,meskelu metku,Other,Meskel label
+791,It has become the most unreliable mibile banking app ever.,negative,0.999081015586853,BOA,1,unreliable mibile banking app,Other,It has become the most unreliable mibile banking app ever.
+795,Really Bank,positive,0.9820581078529358,BOA,5,bank,Other,Really Bank
+801,You are beutiful,negative,0.8399409055709839,BOA,5,beutiful,Other,You are beutiful
+803,አይሰራም አፑ ለምንድነው,negative,0.8337252736091614,BOA,1,አይሰራም አፑ ለምንድነው,Other,Won't work
+804,Awful,negative,0.9997954964637756,BOA,1,awful,Other,Awful
+808,"Worest app, it cannot be downloaded",negative,0.9979676604270936,BOA,2,worest app download,Other,"Worest app, it cannot be downloaded"
+811,ok yes,positive,0.9997628331184388,BOA,5,ok yes,Other,ok yes
+815,Kerfafa new,positive,0.8148752450942993,BOA,1,kerfafa new,Other,Kerfafa new
+816,ABDU MUDESR,positive,0.7394681572914124,BOA,2,abdu mudesr,Other,Abdu Mudesr
+821,Ayseram,negative,0.6560930013656616,BOA,1,ayseram,Other,Iderso
+828,kalid,positive,0.8998875617980957,Dashen,5,kalid,Other,knitting
+831,መቸሸጠ,negative,0.6970565915107727,Dashen,5,መቸሸጠ,Other,Took
+832,gadaa,negative,0.7211463451385498,Dashen,5,gadaa,Other,The Gada
+833,Massive upgrade from the Amole app.,positive,0.9646419286727904,Dashen,5,massive upgrade amole app,Other,Massive upgrade from the Amole app.
+840,ዳሽን ባንክ ይለያል,negative,0.8337252736091614,Dashen,4,ዳሽን ባንክ ይለያል,Other,Dash Banking identifies
+848,Wawww,negative,0.941803812980652,Dashen,5,wawww,Other,Wawww
+864,its my choice,positive,0.9962010979652404,Dashen,5,choice,Other,its my choice
+876,fast,positive,0.9989494681358336,Dashen,5,fast,Other,fast
+882,I am highly excited by using this application and it is the most favorable as well as preferrable mobile app.,positive,0.9995176792144777,Dashen,5,highly excited application favorable preferrable mobile app,Other,I am highly excited by using this application and it is the most favorable as well as preferrable mobile app.
+892,Dashen bank always one step ahead,positive,0.9996015429496764,Dashen,5,dashen bank step ahead,Other,Dashen bank always one step ahead
+897,waw,negative,0.7346178889274597,Dashen,5,waw,Other,waw
+910,execellent,negative,0.9866806864738464,Dashen,5,execellent,Other,execellent
+913,it is incredible product.,positive,0.9998867511749268,Dashen,5,incredible product,Other,it is incredible product.
+915,ok,positive,0.9997851252555848,Dashen,5,ok,Other,ok
+919,"Exceptional digital experience, SupperApp will bring new paradigm shift in the banking business. Bravo Dashen keep it up!!!!",positive,0.9998323917388916,Dashen,5,exceptional digital experience supperapp bring new paradigm shift banking business bravo dashen,Other,"Exceptional digital experience, SupperApp will bring new paradigm shift in the banking business. Bravo Dashen keep it up!!!!"
+931,betam mirt Ena betam le atikakem kelel Yale Ena michu application nw,negative,0.9886249303817748,Dashen,5,betam mirt ena betam le atikakem kelel yale ena michu application nw,Other,Betam Mrt Ena Betam Le Atikakem Kelel Yale Ena Michu Application NW
+938,Dashen bank is my number one choice,positive,0.9996331930160522,Dashen,5,dashen bank number choice,Other,Dashen bank is my number one choice
+941,"Proudly made in Ethiopia, this innovation delivers more than promised. The marketplace is a major boost for local commerce",positive,0.9998248219490052,Dashen,5,proudly ethiopia innovation deliver promise marketplace major boost local commerce,Other,"Proudly made in Ethiopia, this innovation delivers more than promised. The marketplace is a major boost for local commerce"
+949,"This app has everything I was looking for, dashen is becoming a grandmaster.",positive,0.9995651841163636,Dashen,5,app look dashen grandmaster,Other,"This app has everything I was looking for, dashen is becoming a grandmaster."
+966,what an App,positive,0.9938238859176636,Dashen,5,app,Other,what an App
+975,Better and inclusive app!,positive,0.999285876750946,Dashen,5,better inclusive app,Other,Better and inclusive app!
+977,It keep my time to pay my bills and I generate my satment easily,positive,0.996675968170166,Dashen,5,time pay bill generate satment easily,Other,It keep my time to pay my bills and I generate my satment easily
+987,it's a hestorical app. in the bank industry.,negative,0.9915915727615356,Dashen,5,hestorical app bank industry,Other,it's a hestorical app. in the bank industry.
+1007,very comfortable app keep it,positive,0.999691367149353,Dashen,5,comfortable app,Other,very comfortable app keep it
+1023,Too best,positive,0.877548098564148,Dashen,1,well,Other,Too best
+1034,Dashen supper app is the most special. ይምቾቱ ይለያያል!!!!,positive,0.9926958084106444,Dashen,5,dashen supper app special ይምቾቱ ይለያያል,Other,DASHEEUNSUPER APP is: The Most Speed ​​Specieral.It is different !!!!
+1036,Best- in-class app.,positive,0.999584972858429,Dashen,5,class app,Other,Best- in-class app.
+1044,no working for me hulum information asgebiche continue or accept yemilew button ayeseram my phone is Samsung A51,negative,0.9980541467666626,Dashen,1,working hulum information asgebiche continue accept yemilew button ayeseram phone samsung,Other,no working for me hulum information asgebiche continue or accept yemilew button ayeseram my phone is Samsung A51
+1051,nic app,positive,0.9797857403755188,Dashen,5,nic app,Other,nic app
+1056,ምርጫዬ ነው,negative,0.7850590348243713,Dashen,5,ምርጫዬ ነው,Other,It's my choice
+1058,it's samart,positive,0.9992457628250122,Dashen,5,samart,Other,it's samart
+1059,"The app is not working properly, I have been using it.",negative,0.999715268611908,Dashen,1,app work properly,Other,"The app is not working properly, I have been using it."
+1067,proud by dashen bank,positive,0.9998666048049928,Dashen,5,proud dashen bank,Other,proud by dashen bank
+1068,best,positive,0.9997941851615906,Dashen,5,well,Other,best
+1073,tanku,negative,0.9159653186798096,Dashen,5,tanku,Other,tank
+1075,goood,negative,0.9943867921829224,Dashen,5,goood,Other,goood
+1076,why does it ask me for both pin and opt even the opt is touch let alone both,negative,0.9958769083023072,Dashen,2,ask pin opt opt touch let,Other,why does it ask me for both pin and opt even the opt is touch let alone both
+1088,ጥሩ ነው,negative,0.7850590348243713,Dashen,5,ጥሩ ነው,Other,it's good
+1090,nic,positive,0.9977141618728638,Dashen,5,nic,Other,nic
+1091,በጣም ቅልል ያለ አፕ በርቱልን ለአጠቃቀም ምቹ,negative,0.9200406670570374,Dashen,5,በጣም ቅልል ያለ አፕ በርቱልን ለአጠቃቀም ምቹ,Other,A very scrolling AP Burtle for use for use
+1093,Best,positive,0.9997941851615906,Dashen,5,well,Other,Best
+1102,Naiycapp,positive,0.8075174689292908,Dashen,5,naiycapp,Other,Naiycapp
+1108,በጣም አሪፍ መተግበሪያ ነው ። አመሠግናለሁ ።,negative,0.9200406670570374,Dashen,5,በጣም አሪፍ መተግበሪያ ነው አመሠግናለሁ,Other,It's a very cool app.I have becomegotten.
+1115,no one dashen yichlal,negative,0.9842472076416016,Dashen,5,dashen yichlal,Other,no one dashen yichlal
+1123,ከጰነጨየጠ,negative,0.6970565915107727,Dashen,2,ከጰነጨየጠ,Other,From the
+1126,አፕልኬሽኑ አሪፍ ሆኖ ሳለ ቴሌብር ወደራስ ብቻ ለምን ሆነ እንደ ድሮው ለሰውም መላክ ቢቻል,negative,0.9528433680534364,Dashen,4,አፕልኬሽኑ አሪፍ ሆኖ ሳለ ቴሌብር ወደራስ ብቻ ለምን ሆነ እንደ ድሮው ለሰውም መላክ ቢቻል,Other,"If the Applesser was cool, the Teleber was only for yourself and the old"
+1138,ጥሩ ነው ግን በደንብ ሊሸሻል ይገባል,negative,0.9046952724456788,Dashen,4,ጥሩ ነው ግን በደንብ ሊሸሻል ይገባል,Other,It's good but well should be checked
+1139,ፍጥነቱ በጣም አሪፍ ነው! እና ቀለል ያለ ነው ! ነገር ግን ተጨማሪ ወደ ቴሌብር ኤጀንት መላኪያ አፕ ቢካተትበት ጥሩ ነው::,negative,0.932810604572296,Dashen,4,ፍጥነቱ በጣም አሪፍ ነው እና ቀለል ያለ ነው ነገር ግን ተጨማሪ ወደ ቴሌብር ኤጀንት መላኪያ አፕ ቢካተትበት ጥሩ ነው,Other,"The speed is very cool!And it's light!However, it's good to include more to Teleber's Senior Shipping Apple."
+1143,"የሚገርም aplication ነው, ነገር ግን ብር ትራንስፈር ሲደረግ ያለ ፒን መሆኑ risk አለው ሁሉ ጊዜ የ ትራንስፈር መደምደሚያ ፒን መሆን አለበት!!!!!!!!!!!!:: አሱ ቢስተካከል 5 star አስከዛው ግን 4 ሰጥቻለው::",negative,0.8565719723701477,Dashen,4,የሚገርም aplication ነው ነገር ግን ብር ትራንስፈር ሲደረግ ያለ ፒን መሆኑ risk አለው ሁሉ ጊዜ የ ትራንስፈር መደምደሚያ ፒን መሆን አለበት አሱ ቢስተካከል star አስከዛው ግን ሰጥቻለው,Other,"Amazing APLICATION, But it's a PIN, that it's PIN, it has a PIN, all the time the transcript of translation must be PIN.But when the speech was wrong, 5 Star makes it possible."
+1144,Baankii daashin baankii hudna galeessa galatoomaa isinii woliin jirra Godina jimmaa magaalaa Aggaaroo irraa Muaz Abamecha Abamilki,negative,0.9961472749710084,Dashen,5,baankii daashin baankii hudna galeessa galatoomaa isinii woliin jirra godina jimmaa magaalaa aggaaroo irraa muaz abamecha abamilki,Other,"Dashin Bank is Hudnadan Bank Thank you for you, Muaz Abamecha Abamilki from Aggaaro Town, Jimma District"
+1145,It doesn't work,negative,0.9997813105583192,Dashen,1,work,Other,It doesn't work
+1148,Gud app kegza ga mezmn endze new aind ermjh kedme nachu hlam,negative,0.985221803188324,Dashen,5,gud app kegza ga mezmn endze new aind ermjh kedme nachu hlam,Other,With the kegza app has the same new one's kemjh keme clamp
+1151,Wonderful Application 😍,positive,0.9998589754104614,Dashen,5,wonderful application,Other,Wonderful Application 😍
+1153,አሁን ገና አንድ እርምጃ ቀደማችው,negative,0.8832131028175354,Dashen,5,አሁን ገና አንድ እርምጃ ቀደማችው,Other,"Now, one step has been raised"
+1160,Ok,positive,0.9997851252555848,Dashen,5,ok,Other,Ok
+1162,Gret experience,negative,0.7600314021110535,Dashen,5,gret experience,Other,Gret experience
+1170,mobile banking to the next level,positive,0.9409880042076112,Dashen,5,mobile banking level,Other,mobile banking to the next level
+1171,The first 3 star review is me,positive,0.9967767596244812,Dashen,3,star review,Other,The first 3 star review is me
+1172,Is not working,negative,0.9997809529304504,Dashen,1,work,Other,Is not working
+1176,I only see white page,negative,0.9910238981246948,Dashen,2,white page,Other,I only see white page
+1178,Amizing Application 😍,negative,0.9905142784118652,Dashen,5,amize application,Other,Amizing Application 😍
+1180,ስም ብቻ 😏,negative,0.8337252736091614,Dashen,2,ስም ብቻ,Other,Name only
+1186,I hope it will be better than amole,positive,0.9969701766967772,Dashen,5,hope well amole,Other,I hope it will be better than amole
+1188,Dashen yichalal. Ewnetem one step a head,negative,0.983262538909912,Dashen,5,dashen yichalal ewnetem step head,Other,Dashen yichalal. Ewnetem one step a head
+1190,"It is a very wonderful work that has saved its time. That is why it is ""Always one step ahead!""",positive,0.99988055229187,Dashen,5,wonderful work save time step ahead,Other,"It is a very wonderful work that has saved its time. That is why it is ""Always one step ahead!"""
+1192,Pro max,positive,0.9984601736068726,Dashen,5,pro max,Other,Pro max
+1195,Proud to be dashen family . Shout out to the serial entrepreneur 👏,positive,0.9998549222946168,Dashen,5,proud dashen family shout serial entrepreneur,Other,Proud to be dashen family . Shout out to the serial entrepreneur 👏
+1196,First ATM in East africa ⭐️⭐️⭐️⭐️⭐️,positive,0.9874703288078308,Dashen,5,atm east africa,Other,First ATM in East africa ⭐️⭐️⭐️⭐️⭐️
+1198,Better Move to catch the competition up👍,positive,0.9914566874504088,Dashen,5,well catch competition,Other,Better Move to catch the competition up👍
+1200,Always one step ahead! What a masterpiece.,positive,0.9998708963394164,Dashen,5,step ahead masterpiece,Other,Always one step ahead! What a masterpiece.
+1204,Always one step forward,positive,0.999639630317688,Dashen,5,step forward,Other,Always one step forward
+1209,Dashen Bank Always One Step Ahead!,positive,0.9996882677078248,Dashen,5,dashen bank step ahead,Other,Dashen Bank Always One Step Ahead!
+1210,U can't create account,negative,0.9984429478645324,Dashen,1,u create account,Other,U can't create account
+1213,Always one step a head!,positive,0.9981322884559632,Dashen,5,step head,Other,Always one step a head!
+1214,"A lightweight,catchy and smooth app",positive,0.998709201812744,Dashen,5,lightweight catchy smooth app,Other,"A lightweight,catchy and smooth app"
+1218,This is My Bank!,positive,0.9968095421791076,Dashen,5,bank,Other,This is My Bank!
+1219,"Truly, db => AlwaysOneStepAhead !!",negative,0.9989049434661864,Dashen,5,truly db alwaysonestepahead,Other,"Truly, db => AlwaysOneStepAhead !!"
+1220,ALWAYS ONE STEP AHEAD,positive,0.9997699856758118,Dashen,5,step ahead,Other,ALWAYS ONE STEP AHEAD
+1221,Well developed,positive,0.9998576641082764,Dashen,5,develop,Other,Well developed
+1229,App That makes Difference!,positive,0.9998338222503662,Dashen,5,app make difference,Other,App That makes Difference!
+1233,Always one step ahead,positive,0.9997699856758118,Dashen,5,step ahead,Other,Always one step ahead
+1234,"Like Me, I Hope It Works Better Than Before.",positive,0.99872225522995,Dashen,5,like hope work well,Other,"Like Me, I Hope It Works Better Than Before."
