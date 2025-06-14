@@ -21,7 +21,7 @@ A Python script to collect and preprocess mobile banking app reviews from the Go
   reviews(
       app_id,
       lang='en',        # English reviews
-      country='et',     # Ethiopia (for CBE)
+      country='et',     # Ethiopia 
       count=400,        # 400 reviews per bank
       sort=Sort.NEWEST, # Most recent first
       sleep_milliseconds=1000 # Avoid rate limits
